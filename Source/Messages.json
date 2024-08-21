@@ -1,19 +1,19 @@
 {
 	"messages": {
-		"no-files": "Вы не отправили мне ни одного файла\\.",
-		"expectation": "{reason} Повторите попытку позже\\.",
-		"wellclear": "Ваша коллекция файлов очищена\\.",
-		"greeting": "Перешлите мне сообщения с медиафайлами, после чего отправьте команду /archive, чтобы получить архив с данными\\.\n\nПолный список команд бота с описанием доступен в выпадающем меню чата\\.",
-		"statistic": "⏳ *Количество загружаемых файлов*\\: {count}\n\n📦 *Текущий размер архива*\\: {size}\n\n🗄 *_Типы файлов_*\\: \n\n📷 _Фото_\\: {photo}\n📽 _Видео_\\: {video}\n💼 _Документы_\\: {documents}\n🎵 _Аудио_\\: {audio}\n\n❌ *_Ошибки_*\\: {mistakes}",
-		"archiving": "Идёт упаковка архива\\.",
-		"mistakes": "Отправка незагруженных файлов\\.",
-		"errorsending": "Не удалось отправить архив\\. Попробуйте повторить попытку позже\\."
+		"no-files": "You haven't sent me any files.",
+		"expectation": "{reason} Please try again later.",
+		"wellclear": "Your file collection has been cleared.",
+		"greeting": "Forward messages with media files to me, then send the /archive command to receive an archive with the data.\n\nA full list of the bot's commands with descriptions is available in the chat's dropdown menu.",
+		"statistic": "⏳ *Number of files being uploaded*: {count}\n\n📦 *Current archive size*: {size}\n\n🗄 *_File types_*: \n\n📷 _Photos_: {photo}\n📽 _Videos_: {video}\n💼 _Documents_: {documents}\n🎵 _Audio_: {audio}\n\n❌ *_Errors_*: {mistakes}",
+		"archiving": "Archiving in progress.",
+		"mistakes": "Sending unsent files.",
+		"errorsending": "Failed to send the archive. Please try again later."
 	},
 	"headers": {
-		"error": "❗️ *Ошибка*",
-		"waiting": "⏳ *Ожидание*",
-		"done": "✅ *Готово*",
-		"info": "ℹ️ *Информация*",
-		"statistic":"📊 *Статистика*"
+		"error": "❗️ *Error*",
+		"waiting": "⏳ *Waiting*",
+		"done": "✅ *Done*",
+		"info": "ℹ️ *Information*",
+		"statistic":"📊 *Statistics*"
 	}
 }
